@@ -142,23 +142,25 @@ Some notable observations from the analysis:
 > Note: The dataset is designed for portfolio and analytical practice. Some distributions are synthetic and should not be interpreted as real-world industry benchmarks.
 
 ---
-
 ## 📊 Visualizations
 
-The project includes visualizations for:
+### Monthly Revenue
+![Monthly Revenue](screenshots/monthly_revenue.png)
 
-- Monthly Revenue
-- Top 10 Products by Revenue
-- Revenue by Category
-- Top 10 Customers by Spending
-- Delivery Performance
-- Revenue by Order Value Segment
-- Revenue by Customer Value Segment
-- Returns by Category
-- Payment Status Distribution
-- Revenue by Warehouse
-- Inventory Value by Supplier
-- Project KPI Overview
+### Top 10 Products by Revenue
+![Top Products by Revenue](screenshots/top_products.png)
+
+### Revenue by Category
+![Revenue by Category](screenshots/category_revenue.png)
+
+### Top 10 Customers by Spending
+![Top Customers by Spending](screenshots/top_customers.png)
+
+### Delivery Performance
+![Delivery Performance](screenshots/delivery_performance.png)
+
+### Final KPI Overview
+![Final KPI Overview](screenshots/kpi_overview.png)
 
 ---
 
